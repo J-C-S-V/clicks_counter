@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #1b1b32;
+}
+
+.freecodecamp-logo-container {
+  display: grid;
+  justify-content: center;
+  align-content: center;
+}
+
+.buttons-container {
+  display: grid;
+  width: 50%;
+  margin: 200px 25% 0;
+}
