@@ -14,6 +14,7 @@ body {
 
 .buttons-container {
   display: grid;
-  width: 50%;
-  margin: 200px 25% 0;
+  align-items: center;
+  max-width: 50%;
+  margin: 50px 25% 0;
 }
